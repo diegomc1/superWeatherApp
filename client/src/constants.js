@@ -1,0 +1,1 @@
+exports.apiKey = '3ef26b044aa8de5388fb44e903a7b2cc'
